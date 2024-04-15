@@ -11,14 +11,14 @@ Experienced Frontend Developer with 2+ years of expertise in developing user-fri
    <a href="https://github.com/huyjs9">
   <img src="https://komarev.com/ghpvc/?username=huyjs9&style=flat-square&abbreviated=true" alt="page views" />
   </a>
-  <a href="https://www.linkedin.com/in/huybui38/">
+  <a href="https://www.linkedin.com/in/huybui38/" target="_blank">
     <img src="https://img.shields.io/badge/-@huybui38-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/huybui38/" alt="LinkedIn Badge">
   </a>
-  <a href="https://dev.to/huybt">
+  <a href="https://dev.to/huybt" target="_blank">
     <img src="https://img.shields.io/badge/-@huybt-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/huybt" alt="DevTo Badge">
   </a>
     </a>
-  <a href="https://twitter.com/huybt389">
+  <a href="https://twitter.com/huybt389" target="_blank">
     <img src="https://img.shields.io/badge/-@huybt389-000000?style=flat-square&amp;labelColor=0A0A0A&amp;logo=x&amp;link=https://twitter.com/huybt389" alt="DevTo Badge">
   </a>
 </p>
