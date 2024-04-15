@@ -37,7 +37,7 @@ Programming Language
     </td>
     <td align="center" width="96">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="nextjs" width="48" height="48" />
-      <br>JavasScript
+      <br>JavaScript
     </td>
     <td align="center" width="96">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="nestjs" width="48" height="48" />
