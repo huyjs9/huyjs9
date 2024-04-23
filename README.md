@@ -4,10 +4,9 @@
   </a>
 </h1>
 
-Experienced Frontend Developer with 2+ years of expertise in developing user-friendly, adaptive and responsive websites with optimized cross-browser compatibility and runtime performance.
+Experienced Frontend Developer with 3 years of expertise in developing user-friendly, adaptive and responsive websites with optimized cross-browser compatibility and runtime performance.
 
 <p>
-  <a href="https://hits.dwyl.com/huyjs9/huyjs9/huyjs9.svg?style=flat-square"><img src="https://hits.dwyl.com/huyjs9/huyjs9/huyjs9.svg?style=flat-square" alt="HitCount"></a>
    <a href="https://github.com/huyjs9">
   <img src="https://komarev.com/ghpvc/?username=huyjs9&style=flat-square&abbreviated=true" alt="page views" />
   </a>
@@ -46,6 +45,10 @@ Programming Language
     <td align="center" width="96">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="nestjs" width="48" height="48" />
       <br>PHP
+    </td>
+      <td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="nestjs" width="48" height="48" />
+      <br>Python
     </td>
   </tr>
 </table>
@@ -132,6 +135,10 @@ Others
 </h3>
 <table>
   <tr>
+        <td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="figma" width="48" height="48" />
+      <br>Docker
+    </td>
     <td align="center" width="96">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="48" height="48" />
       <br>Figma
